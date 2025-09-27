@@ -2,10 +2,10 @@
 Homework 1 code for Principles of Robot Autonomy I (AA174A / CS137A / EE160A)
 
 ## Environment
-Before installing dependencies, create and activate a conda environment with Python **between 3.5 and 3.9**:
+Before installing dependencies, create and activate a conda environment with Python **3.9**:
 
 ```
-conda create -n hw1 python=3.8
+conda create -n hw1 python=3.9
 conda activate hw1
 ````
 
